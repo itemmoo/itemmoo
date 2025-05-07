@@ -20,7 +20,7 @@
 
 If you'd like to get in touch or follow my work, here are my contact links:
 
-- 📧 Email: [redmonkey4826@gmail.com](mailto:redmonkey4826@gmail.com)
+ 📧 Email: [redmonkey4826@gmail.com](mailto:redmonkey4826@gmail.com)
 - 📸 Instagram: [@redmonkey4826](https://www.instagram.com/redmonkey4826)
 - 💻 GitHub: [@itemmoo](https://github.com/itemmoo)
 - 📘 Facebook: [mccula.redmonkey](https://www.facebook.com/mccula.redmonkey)
