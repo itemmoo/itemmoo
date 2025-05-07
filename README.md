@@ -1,4 +1,7 @@
-
+# Hi there 👋
+# I'm Moepoi (21 y.o) ! 😎
+# 
+# I'd like to do project that has relation to anime. 👻
 <!--
 **itemmoo/itemmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
