@@ -53,3 +53,6 @@
   <!-- Reliable Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=itemmoo&label=PROFILE+VIEWS&style=for-the-badge&color=7289da" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itemmoo&theme=tokyo-night&hide_border=true&area=true" alt="itemmoo's Activity Graph" width="100%" />
+</p>
